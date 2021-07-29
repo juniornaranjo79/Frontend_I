@@ -1,0 +1,82 @@
+/* General */
+
+body {
+    margin: 0px;
+}
+
+.header-descuento {
+    background-color: #1CD1B0;
+    color: #fff;
+    padding: 1px 20px;
+}
+
+.header-title {
+    background-color: #00669F;
+    color: #fff;
+    padding: 12px 20px;
+}
+
+section.cards-heroes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 150px 0px;
+}
+
+.cards {
+    width: 300px;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    box-shadow: 0px 0px 11px 1px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 10px 20px;
+    background-color: #F3F3F3;
+}
+
+.heroe-1 {
+    background-image: url(../img/background-batman.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.heroe-2 {
+    background-image: url(../img/background-harley.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.cards h2{
+    text-align: center;
+}
+
+i {
+    color: #CC2424;
+    font-size: 22px;
+    display: block !important;
+    padding-bottom: 100px;
+}
+
+.img-heroes {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+
+.cards a {
+    background-color: #00669F;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.btn-confi {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer-principal {
+    background-color: #00669F;
+    color: #fff;
+    padding: 1px 20px;
+}
