@@ -1,0 +1,65 @@
+/* estilos generales */
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.config-titulos {
+    background-color: #C4C4C4;
+    color: #005677;
+    padding: 15px;
+}
+
+.no-margin {
+    margin: 0;
+}
+
+li {
+    padding: 5px 0px;
+}
+
+/* Encanezado */
+
+.header-principal {
+    background-color: #E5E5E5;
+    text-align: center;
+    padding: 21px 0;
+}
+
+/* Información datos */
+
+.confi-info-general {
+    margin-top: 104px !important;
+    width: 950px;
+    margin: auto;
+}
+
+.titulo-item {
+    font-weight: 700;
+}
+
+.datos-personales {
+    font-style: italic;
+}
+
+/* Footer */
+
+footer{
+    text-align: center;
+    background-color: #005677;
+    padding: 15px 5px;
+}
+
+.info-footer{
+    color: #fff;
+    padding: 0 10px;
+}
+
+.icon-redes {
+    padding: 0 5px;
+}
